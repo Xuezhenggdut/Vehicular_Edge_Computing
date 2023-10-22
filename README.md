@@ -21,7 +21,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Y. Ju et al., "Joint Secure Offloading and Resource Allocation for Vehicular Edge Computing Network: A Multi-Agent Deep Reinforcement Learning Approach," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 5, pp. 5555-5569, May 2023, doi: 10.1109/TITS.2023.3242997. [[paper]](https://ieeexplore.ieee.org/abstract/document/10041957)
 
 ## Application
-- G. Luo et al., "EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2023.3322764. [[https://ieeexplore.ieee.org/abstract/document/10274112]]
+- G. Luo et al., "EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2023.3322764. [[paper]](https://ieeexplore.ieee.org/abstract/document/10274112)
 
 ## Group
 
