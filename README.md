@@ -20,6 +20,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
 ## Task offloading and resource allocation
 - Y. Ju et al., "Joint Secure Offloading and Resource Allocation for Vehicular Edge Computing Network: A Multi-Agent Deep Reinforcement Learning Approach," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 5, pp. 5555-5569, May 2023, doi: 10.1109/TITS.2023.3242997. [[paper]](https://ieeexplore.ieee.org/abstract/document/10041957)
 
+## Physical technology
+- V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
+
 ## Application
 - G. Luo et al., "EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2023.3322764. [[paper]](https://ieeexplore.ieee.org/abstract/document/10274112)
 
