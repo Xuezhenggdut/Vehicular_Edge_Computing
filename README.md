@@ -18,8 +18,10 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Haochen Hua, Yutong Li, Tonghe Wang, Nanqing Dong, Wei Li, and Junwei Cao. 2023. Edge Computing with Artificial Intelligence: A Machine Learning Perspective. ACM Comput. Surv. 55, 9, Article 184 (September 2023), 35 pages. https://doi.org/10.1145/3555802. [[paper]](https://dl.acm.org/doi/full/10.1145/3555802)
 - Rodolfo Meneguette, Robson De Grande, Jo Ueyama, Geraldo P. Rocha Filho, and Edmundo Madeira. 2021. Vehicular Edge Computing: Architecture, Resource Management, Security, and Challenges. ACM Comput. Surv. 55, 1, Article 4 (January 2023), 46 pages. https://doi.org/10.1145/3485129 [[paper]](https://dl.acm.org/doi/full/10.1145/3485129) 
 
+
 ## Task offloading and resource allocation
 - Y. Ju et al., "Joint Secure Offloading and Resource Allocation for Vehicular Edge Computing Network: A Multi-Agent Deep Reinforcement Learning Approach," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 5, pp. 5555-5569, May 2023, doi: 10.1109/TITS.2023.3242997. [[paper]](https://ieeexplore.ieee.org/abstract/document/10041957)
+- W. Fan et al., "Joint Task Offloading and Resource Allocation for Vehicular Edge Computing Based on V2I and V2V Modes," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 4, pp. 4277-4292, April 2023, doi: 10.1109/TITS.2022.3230430. [[paper]](https://ieeexplore.ieee.org/abstract/document/10007714)
 
 ## Physical technology
 - V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
