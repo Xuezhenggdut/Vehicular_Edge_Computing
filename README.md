@@ -38,6 +38,11 @@ This project gathers academic resources related to vehicular edge computing (VEC
 ## Application
 - G. Luo et al., "EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2023.3322764. [[paper]](https://ieeexplore.ieee.org/abstract/document/10274112)
 
+## Chinese
+- 郭欣宇. 基于深度学习的智能网联汽车的感知与通信相关技术研究[D]. 吉林:吉林大学,2023. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzA3NTAwORoINmRxamV2ZGM%3D)
+- 杨春. 基于深度强化学习策略的车载计算任务卸载方法研究[D]. 天津:天津理工大学,2023. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzAxMTEzMhoIbjd1cG43aGQ%3D)
+
+
 ## Group
 
 | People | Web | Affiliation | Github |
@@ -48,3 +53,6 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Qiong Wu](https://scholar.google.com/citations?user=gy98KEAAAAAJ&hl=en&oi=sra) | - | Jiangnan University | [Link](https://github.com/qiongwu86) |
 | [Weisong Shi](https://www.weisongshi.org/) | [THE CAR LAB](https://www.thecarlab.org/) | University of Delaware | - |
 | [Sidi Lu](https://sidilu.org/) | - | William & Mary |  |
+
+
+
