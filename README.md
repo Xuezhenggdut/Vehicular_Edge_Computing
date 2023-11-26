@@ -41,6 +41,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 ## Chinese
 - 郭欣宇. 基于深度学习的智能网联汽车的感知与通信相关技术研究[D]. 吉林:吉林大学,2023. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzA3NTAwORoINmRxamV2ZGM%3D)
 - 杨春. 基于深度强化学习策略的车载计算任务卸载方法研究[D]. 天津:天津理工大学,2023. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMzAxMTEzMhoIbjd1cG43aGQ%3D)
+- 任琦琦. 车联网环境中计算卸载方案研究[D]. 陕西:西安电子科技大学,2022. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCFk0MDM0MTYzGggyb3htZjM5aQ%3D%3D)
 
 
 ## Group
