@@ -53,7 +53,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Zhiwei Zhao](https://mobinets.cn/zzw/) | [MobiNetS (Mobile, Networked and Smart Computing)](https://mobinets.cn/site/Main_Page) | University of Electronic Science and Technology of China | [Link](https://github.com/mobinets) |
 | [Qiong Wu](https://scholar.google.com/citations?user=gy98KEAAAAAJ&hl=en&oi=sra) | - | Jiangnan University | [Link](https://github.com/qiongwu86) |
 | [Weisong Shi](https://www.weisongshi.org/) | [THE CAR LAB](https://www.thecarlab.org/) | University of Delaware | - |
-| [Sidi Lu](https://sidilu.org/) | - | William & Mary |  |
+| [Sidi Lu](https://sidilu.org/) | - | William & Mary | [Link](https://github.com/SidiLu001) |
 
 
 
