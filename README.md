@@ -56,6 +56,6 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Qiong Wu](https://scholar.google.com/citations?user=gy98KEAAAAAJ&hl=en&oi=sra) | - | Jiangnan University | [Link](https://github.com/qiongwu86) |
 | [Weisong Shi](https://www.weisongshi.org/) | [THE CAR LAB](https://www.thecarlab.org/) | University of Delaware | - |
 | [Sidi Lu](https://sidilu.org/) | - | William & Mary | [Link](https://github.com/SidiLu001) |
-
+| [Zhaolong Ning](http://www.lins-cqupt.cn/#/) | Chongqing University of Posts and Telecommunications | - |
 
 
