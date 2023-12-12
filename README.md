@@ -59,3 +59,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Zhaolong Ning](http://www.lins-cqupt.cn/#/) | Chongqing University of Posts and Telecommunications | - |
 
 
+## Other collections
+[paper with code in edge computing](https://github.com/jwwthu/OpenCommLab/blob/main/Collections/edge_computing.md)
+
+
