@@ -51,14 +51,14 @@ This project gathers academic resources related to vehicular edge computing (VEC
 
 | People | Web | Affiliation | Github |
 | :---: | :---: | :---: | :---: |
-| [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/) | [Cyber-Physical Systems (CPS) Research Group](https://cps-research-group.github.io/) | Nanyang Technological University | - |
+| [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/) | [Cyber-Physical Systems (CPS) Research Group](https://cps-research-group.github.io/) | Nanyang Technological University | [Link](https://github.com/CPS-research-group) |
 | [Rajkumar Buyya](http://www.cloudbus.org/~rbuyya) | [The Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://www.cloudbus.org/) | University of Melbourne | [Link](https://github.com/Cloudslab) |
 | [Zhiwei Zhao](https://mobinets.cn/zzw/) | [MobiNetS (Mobile, Networked and Smart Computing)](https://mobinets.cn/site/Main_Page) | University of Electronic Science and Technology of China | [Link](https://github.com/mobinets) |
 | [Qiong Wu](https://scholar.google.com/citations?user=gy98KEAAAAAJ&hl=en&oi=sra) | - | Jiangnan University | [Link](https://github.com/qiongwu86) |
 | [Weisong Shi](https://www.weisongshi.org/) | [THE CAR LAB](https://www.thecarlab.org/) | University of Delaware | - |
 | [Sidi Lu](https://sidilu.org/) | - | William & Mary | [Link](https://github.com/SidiLu001) |
-| [Zhaolong Ning](http://www.lins-cqupt.cn/#/) | Chongqing University of Posts and Telecommunications | - |
-
+| [Zhaolong Ning](http://www.lins-cqupt.cn/#/) | - |Chongqing University of Posts and Telecommunications | - |
+| [Xincao Xu](https://www.neardws.com/) | - | University of Electronic Science and Technology of China | [Link](https://github.com/neardws) |
 
 ## Other collections
 [paper with code in edge computing](https://github.com/jwwthu/OpenCommLab/blob/main/Collections/edge_computing.md)
