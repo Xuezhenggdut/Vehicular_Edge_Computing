@@ -17,6 +17,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - D. Katare, D. Perino, J. Nurmi, M. Warnier, M. Janssen and A. Y. Ding, "A Survey on Approximate Edge AI for Energy Efficient Autonomous Driving Services," in IEEE Communications Surveys & Tutorials, doi: 10.1109/COMST.2023.3302474. [[paper]](https://ieeexplore.ieee.org/abstract/document/10213996)
 - Haochen Hua, Yutong Li, Tonghe Wang, Nanqing Dong, Wei Li, and Junwei Cao. 2023. Edge Computing with Artificial Intelligence: A Machine Learning Perspective. ACM Comput. Surv. 55, 9, Article 184 (September 2023), 35 pages. https://doi.org/10.1145/3555802. [[paper]](https://dl.acm.org/doi/full/10.1145/3555802)
 - Rodolfo Meneguette, Robson De Grande, Jo Ueyama, Geraldo P. Rocha Filho, and Edmundo Madeira. 2021. Vehicular Edge Computing: Architecture, Resource Management, Security, and Challenges. ACM Comput. Surv. 55, 1, Article 4 (January 2023), 46 pages. https://doi.org/10.1145/3485129 [[paper]](https://dl.acm.org/doi/full/10.1145/3485129) 
+- E. Karimi, Y. Chen and B. Akbari, "Intelligent and Decentralized Resource Allocation in Vehicular Edge Computing Networks," in IEEE Internet of Things Magazine, vol. 6, no. 4, pp. 112-117, December 2023, doi: 10.1109/IOTM.001.2200268.[[paper]](https://ieeexplore.ieee.org/abstract/document/10364653)
 
 
 ## Task offloading and resource allocation
@@ -60,6 +61,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Sidi Lu](https://sidilu.org/) | - | William & Mary | [Link](https://github.com/SidiLu001) |
 | [Zhaolong Ning](http://www.lins-cqupt.cn/#/) | - |Chongqing University of Posts and Telecommunications | - |
 | [Xincao Xu](https://www.neardws.com/) | - | University of Electronic Science and Technology of China | [Link](https://github.com/neardws) |
+| [Muhammad Ayzed Mirza](https://scholar.google.com/citations?hl=en&user=qd2Qi88AAAAJ&view_op=list_works&sortby=pubdate) | - | Beijing University of Posts & Telecommunications | - |
 
 ## Other collections
 [paper with code in edge computing](https://github.com/jwwthu/OpenCommLab/blob/main/Collections/edge_computing.md)
