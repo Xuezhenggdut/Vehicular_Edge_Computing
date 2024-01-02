@@ -6,7 +6,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - [Survey](#survey)
 - [Group](#group)
 
-
+ 
 ## Awesome resources
 - [Awesome edge computing](https://github.com/qijianpeng/awesome-edge-computing)
 
@@ -51,6 +51,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 
 ## background
 - 陈山枝. 蜂窝车联网(C-V2X)及其赋能智能网联汽车发展的辩思与建议[J]. 电信科学,2022,38(7):1-17. DOI:10.11959/j.issn.1000−0801.2022154. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg1keGt4MjAyMjA3MDAxGgh1MTQ1aXRhbA%3D%3D) 
+- 陈山枝,葛雨明,时岩. 蜂窝车联网(C-V2X)技术发展、应用及展望[J]. 电信科学,2022,38(1):1-12. DOI:10.11959/j.issn.1000−0801.2022007.[[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg1keGt4MjAyMjAxMDAxGgg2aWx2Yjg2OQ%3D%3D)
 
 
 ## Group
