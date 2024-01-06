@@ -8,7 +8,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 
  
 ## Awesome resources
-- [Awesome edge computing](https://github.com/qijianpeng/awesome-edge-computing)
+- [Awesome edge computing](https://github.com/qijianpeng/awesome-edge-computing) | [![Stars](https://img.shields.io/github/stars/qijianpeng/awesome-edge-computing.svg?color=orange)](https://github.com/qijianpeng/awesome-edge-computing/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/qijianpeng/awesome-edge-computing?label=&message=Commit) |
 
 ## Survey
 - T. Gong, L. Zhu, F. R. Yu and T. Tang, "Edge Intelligence in Intelligent Transportation Systems: A Survey," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 9, pp. 8919-8944, Sept. 2023, doi: 10.1109/TITS.2023.3275741. [[paper]](https://ieeexplore.ieee.org/abstract/document/10133894)
