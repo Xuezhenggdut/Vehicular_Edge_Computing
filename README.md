@@ -69,6 +69,6 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Muhammad Ayzed Mirza](https://scholar.google.com/citations?hl=en&user=qd2Qi88AAAAJ&view_op=list_works&sortby=pubdate) | - | Beijing University of Posts & Telecommunications | - |
 
 ## Other collections
-[paper with code in edge computing](https://github.com/jwwthu/OpenCommLab/blob/main/Collections/edge_computing.md)
+[paper with code in edge computing](https://github.com/jwwthu/OpenCommLab/blob/main/Collections/edge_computing.md) | [![Stars](https://img.shields.io/github/stars/jwwthu/OpenCommLab?color=orange)](https://github.com/jwwthu/OpenCommLab/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/jwwthu/OpenCommLab?label=&message=Commit) |
 
 
