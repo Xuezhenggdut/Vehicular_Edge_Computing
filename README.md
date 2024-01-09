@@ -3,12 +3,26 @@
 This project gathers academic resources related to vehicular edge computing (VEC), and we welcome issue submissions.
 
 # Table of Contents
-- [Survey](#survey)
-- [Group](#group)
+- [Vehicular\_Edge\_Computing](#vehicular_edge_computing)
+- [Table of Contents](#table-of-contents)
+  - [Awesome resources](#awesome-resources)
+  - [IoV policy](#iov-policy)
+  - [Survey](#survey)
+  - [Task offloading and resource allocation](#task-offloading-and-resource-allocation)
+  - [Physical technology](#physical-technology)
+  - [NOMA](#noma)
+  - [Application](#application)
+  - [Chinese](#chinese)
+  - [Background](#background)
+  - [Group](#group)
+  - [Other collections](#other-collections)
 
  
 ## Awesome resources
 - [Awesome edge computing](https://github.com/qijianpeng/awesome-edge-computing) | [![Stars](https://img.shields.io/github/stars/qijianpeng/awesome-edge-computing.svg?color=orange)](https://github.com/qijianpeng/awesome-edge-computing/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/qijianpeng/awesome-edge-computing?label=&message=Commit) |
+
+## IoV policy
+- [Report_and_white_paper](https://github.com/Internet-of-Vehicles-Code/Security_in_Vehicular_Networks_and_Autonomous_Driving/blob/master/Report_and_white_paper/report_and_white_paper.md)
 
 ## Survey
 - T. Gong, L. Zhu, F. R. Yu and T. Tang, "Edge Intelligence in Intelligent Transportation Systems: A Survey," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 9, pp. 8919-8944, Sept. 2023, doi: 10.1109/TITS.2023.3275741. [[paper]](https://ieeexplore.ieee.org/abstract/document/10133894)
