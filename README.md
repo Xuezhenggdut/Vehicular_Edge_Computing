@@ -64,6 +64,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - 任琦琦. 车联网环境中计算卸载方案研究[D]. 陕西:西安电子科技大学,2022. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCFk0MDM0MTYzGggyb3htZjM5aQ%3D%3D)
 - 许世琳. 车联网中基于深度强化学习的计算任务卸载策略研究[D].北京邮电大学,2022.DOI:10.26969/d.cnki.gbydu.2021.000141. [[paper]](https://kns.cnki.net/kcms2/article/abstract?v=yO8aEz8cbf1l64FrDebiswfVRCeGF2Pxg6uEO1e2HFhgPmRNw0Y-y1ttTu0aIY6mW-9X_ThZULnr2QjHQf8LOtwWZTtmgZX8eDQYU63DRS908Knxm7_2QYngjWH51L0nb8YOw47D20N4M53-Lsp-ig==&uniplatform=NZKPT&language=CHS)
 - 郭欣宇. 基于深度学习的智能网联汽车的感知与通信相关技术研究[D]. 吉林:吉林大学,2023. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzEyMjISCUQwMzA3NTAwORoIZ296cDNtNjE%3D)
+- 宋坤,黄超平,黄兴伟,等. 基于5G边缘计算的高可靠车路协同组网技术研究与实践[J]. 移动通信, 2023,47(12): 2-8. [[paper]](https://kns.cnki.net/kcms2/article/abstract?v=tJ8vF22QX-or0WcUmPWe-yI4dMg4pLpObCzAF0MX0JHLR-ols2fUHIhjnhNc6h6nIAw57S3pLZlpPEEjIs-eqLkXYfrOrRHo7TqUmDWk8osR8gBfVYqAR5w1NCtXC4pgIn0LMo7U834=&uniplatform=NZKPT&language=CHS)
 
 ## Background
 - 陈山枝. 蜂窝车联网(C-V2X)及其赋能智能网联汽车发展的辩思与建议[J]. 电信科学,2022,38(7):1-17. DOI:10.11959/j.issn.1000−0801.2022154. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg1keGt4MjAyMjA3MDAxGgh1MTQ1aXRhbA%3D%3D) 
