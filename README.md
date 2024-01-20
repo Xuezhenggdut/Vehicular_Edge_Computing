@@ -14,6 +14,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Application](#application)
   - [Chinese](#chinese)
   - [Background](#background)
+  - [Cooperative perception](#cooperative-perception)
   - [Group](#group)
   - [Other collections](#other-collections)
 
@@ -41,6 +42,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - C. Tang, G. Yan, H. Wu and C. Zhu, "Computation Offloading and Resource Allocation in Failure-Aware Vehicular Edge Computing," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2023.3342017.[[paper]](https://ieeexplore.ieee.org/abstract/document/10354444)
 - X. Ye, K. Qu, W. Zhuang and X. Shen, "Accuracy-Aware Cooperative Sensing and Computing for Connected Autonomous Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3343709.[[paper]](https://ieeexplore.ieee.org/document/10363435?dld=bWFpbDIuZ2R1dC5lZHUuY24%3D&source=SEARCHALERT)
 - X. Fan, W. Gu, C. Long, C. Gu and S. He, "Optimizing Task Offloading and Resource Allocation in Vehicular Edge Computing Based on Heterogeneous Cellular Networks," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2023.3345364. [[paper]](https://ieeexplore.ieee.org/abstract/document/10368331)
+- J. Zhang, Y. Wu, G. Min and K. Li, "Neural Network-Based Game Theory for Scalable Offloading in Vehicular Edge Computing: A Transfer Learning Approach," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3348074. [[paper]](https://ieeexplore.ieee.org/abstract/document/10401007)
+- W. Fan, Y. Zhang, G. Zhou and Y. Liu, "Deep Reinforcement Learning-Based Task Offloading for Vehicular Edge Computing With Flexible RSU-RSU Cooperation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3349546. [[paper]](https://ieeexplore.ieee.org/abstract/document/10400987)
+- Z. Lin, X. Chen, X. He, D. Tian, Q. Zhang and P. Chen, "Energy-Efficient Cooperative Task Offloading in NOMA-Enabled Vehicular Fog Computing," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2023.3349006. [[paper]](https://ieeexplore.ieee.org/abstract/document/10400885)
 
 ## Physical technology
 - V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
@@ -70,6 +74,8 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - 陈山枝. 蜂窝车联网(C-V2X)及其赋能智能网联汽车发展的辩思与建议[J]. 电信科学,2022,38(7):1-17. DOI:10.11959/j.issn.1000−0801.2022154. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg1keGt4MjAyMjA3MDAxGgh1MTQ1aXRhbA%3D%3D) 
 - 陈山枝,葛雨明,时岩. 蜂窝车联网(C-V2X)技术发展、应用及展望[J]. 电信科学,2022,38(1):1-12. DOI:10.11959/j.issn.1000−0801.2022007.[[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg1keGt4MjAyMjAxMDAxGgg2aWx2Yjg2OQ%3D%3D)
 
+## Cooperative perception
+- K. Qu and W. Zhuang, "Scalable and Dynamic Cooperative Perception: A Data/Model Co-Driven Framework," in IEEE Network, doi: 10.1109/MNET.2024.3354209. [[paper]](https://ieeexplore.ieee.org/abstract/document/10400178),[[code]](https://github.com/kaigequ/Matlab-autonomous-driving-simulation)
 
 ## Group
 
@@ -84,6 +90,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 | [Zhaolong Ning](http://www.lins-cqupt.cn/#/) | - |Chongqing University of Posts and Telecommunications | - |
 | [Xincao Xu](https://www.neardws.com/) | - | University of Electronic Science and Technology of China | [Link](https://github.com/neardws) |
 | [Muhammad Ayzed Mirza](https://scholar.google.com/citations?hl=en&user=qd2Qi88AAAAJ&view_op=list_works&sortby=pubdate) | - | Beijing University of Posts & Telecommunications | - |
+| [Keqin Li](http://www.cs.newpaltz.edu/~lik/) | - | HUNAN University | - |
 
 ## Other collections
 [paper with code in edge computing](https://github.com/jwwthu/OpenCommLab/blob/main/Collections/edge_computing.md) | [![Stars](https://img.shields.io/github/stars/jwwthu/OpenCommLab?color=orange)](https://github.com/jwwthu/OpenCommLab/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/jwwthu/OpenCommLab?label=&message=Commit) |
