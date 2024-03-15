@@ -15,6 +15,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Chinese](#chinese)
   - [Background](#background)
   - [Cooperative perception](#cooperative-perception)
+  - [Cooperative perception task offloading](#cooperative-perception-task-offloading)
   - [Group](#group)
   - [Other collections](#other-collections)
 
