@@ -85,7 +85,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
 ## Cooperative perception task offloading
 - Z. Xiao, J. Shu, H. Jiang, G. Min, H. Chen and Z. Han, "Perception Task Offloading With Collaborative Computation for Autonomous Driving," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 2, pp. 457-473, Feb. 2023, doi: 10.1109/JSAC.2022.3227027. [[paper]](https://ieeexplore.ieee.org/abstract/document/9978606)
 - Z. Xiao, J. Shu, H. Jiang, G. Min, J. Liang and A. Iyengar, "Toward Collaborative Occlusion-free Perception in Connected Autonomous Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3298643. [[paper]](https://ieeexplore.ieee.org/document/10192915)
+- H. Yang, Z. Wei, Z. Feng, X. Chen, Y. Li and P. Zhang, "Intelligent Computation Offloading for MEC-Based Cooperative Vehicle Infrastructure System: A Deep Reinforcement Learning Approach," in IEEE Transactions on Vehicular Technology, vol. 71, no. 7, pp. 7665-7679, July 2022, doi: 10.1109/TVT.2022.3171817. [[paper]](https://ieeexplore.ieee.org/abstract/document/9767647)
 - Z. Xiao, J. Shu, H. Jiang, G. Min, H. Chen and Z. Han, "Overcoming Occlusions: Perception Task-Oriented Information Sharing in Connected and Autonomous Vehicles," in IEEE Network, vol. 37, no. 4, pp. 224-229, July/August 2023, doi: 10.1109/MNET.018.2300125. [[paper]](https://ieeexplore.ieee.org/document/10293229)
+
 
 
 ## Group
