@@ -88,6 +88,11 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Z. Xiao, J. Shu, H. Jiang, G. Min, J. Liang and A. Iyengar, "Toward Collaborative Occlusion-free Perception in Connected Autonomous Vehicles," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2023.3298643. [[paper]](https://ieeexplore.ieee.org/document/10192915)
 - H. Yang, Z. Wei, Z. Feng, X. Chen, Y. Li and P. Zhang, "Intelligent Computation Offloading for MEC-Based Cooperative Vehicle Infrastructure System: A Deep Reinforcement Learning Approach," in IEEE Transactions on Vehicular Technology, vol. 71, no. 7, pp. 7665-7679, July 2022, doi: 10.1109/TVT.2022.3171817. [[paper]](https://ieeexplore.ieee.org/abstract/document/9767647)
 - Z. Xiao, J. Shu, H. Jiang, G. Min, H. Chen and Z. Han, "Overcoming Occlusions: Perception Task-Oriented Information Sharing in Connected and Autonomous Vehicles," in IEEE Network, vol. 37, no. 4, pp. 224-229, July/August 2023, doi: 10.1109/MNET.018.2300125. [[paper]](https://ieeexplore.ieee.org/document/10293229)
+- . -J. Ku, S. Baidya and S. Dey, "Uncertainty-Aware Task Offloading for Multi-Vehicle Perception Fusion Over Vehicular Edge Computing," in IEEE Transactions on Vehicular Technology, vol. 72, no. 11, pp. 14906-14923, Nov. 2023, doi: 10.1109/TVT.2023.3284369. [[paper]](https://ieeexplore.ieee.org/abstract/document/10146522)
+
+- related work
+- P. Lv et al., "Edge Computing Task Offloading for Environmental Perception of Autonomous Vehicles in 6G Networks," in IEEE Transactions on Network Science and Engineering, vol. 10, no. 3, pp. 1228-1245, 1 May-June 2023, doi: 10.1109/TNSE.2022.3211193. [[paper]](https://ieeexplore.ieee.org/abstract/document/9906430)
+- L. Liu, M. Zhao, M. Yu, M. A. Jan, D. Lan and A. Taherkordi, "Mobility-Aware Multi-Hop Task Offloading for Autonomous Driving in Vehicular Edge Computing and Networks," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 2, pp. 2169-2182, Feb. 2023, doi: 10.1109/TITS.2022.3142566. [[paper]](https://ieeexplore.ieee.org/abstract/document/9686591)
 
 
 
