@@ -16,6 +16,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Background](#background)
   - [Cooperative perception](#cooperative-perception)
   - [Cooperative perception task offloading](#cooperative-perception-task-offloading)
+  - [Cooperative pose optimization](#cooperative-pose-optimization)
   - [Group](#group)
   - [Other collections](#other-collections)
 
@@ -93,6 +94,12 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - related work
 - P. Lv et al., "Edge Computing Task Offloading for Environmental Perception of Autonomous Vehicles in 6G Networks," in IEEE Transactions on Network Science and Engineering, vol. 10, no. 3, pp. 1228-1245, 1 May-June 2023, doi: 10.1109/TNSE.2022.3211193. [[paper]](https://ieeexplore.ieee.org/abstract/document/9906430)
 - L. Liu, M. Zhao, M. Yu, M. A. Jan, D. Lan and A. Taherkordi, "Mobility-Aware Multi-Hop Task Offloading for Autonomous Driving in Vehicular Edge Computing and Networks," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 2, pp. 2169-2182, Feb. 2023, doi: 10.1109/TITS.2022.3142566. [[paper]](https://ieeexplore.ieee.org/abstract/document/9686591)
+
+## Cooperative pose optimization
+- 毛瑞清,贾宇宽,孙宇璇,等. 定位与通信受限的网联协同感知算法[J]. 模式识别与人工智能,2023,36(11):1019-1028. DOI:10.16451/j.cnki.issn1003-6059.202311005. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhJtc3NieXJnem4yMDIzMTEwMDYaCDZleXU5czRm)
+- 孙宁. 基于多源信息融合的智能汽车环境感知技术研究[D]. 江苏:江苏大学,2018.[[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCUQwMTQ4MDM0MBoIYmoyeWc5cHM%3D)
+- 王法安. 面向城市场景的智能网联汽车协同定位关键技术研究[D]. 江苏:东南大学,2022. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCUQwMzAxNzg1NxoIa3hmaDRqaHY%3D)
+- 程超轶. 基于车-车信息动态交互的智能车辆协同定位方法研究[D]. 陕西:长安大学,2021. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCUQwMjQ5Njk3MhoIeHZlOWxldzM%3D) 
 
 
 
