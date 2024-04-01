@@ -35,6 +35,8 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Haochen Hua, Yutong Li, Tonghe Wang, Nanqing Dong, Wei Li, and Junwei Cao. 2023. Edge Computing with Artificial Intelligence: A Machine Learning Perspective. ACM Comput. Surv. 55, 9, Article 184 (September 2023), 35 pages. https://doi.org/10.1145/3555802. [[paper]](https://dl.acm.org/doi/full/10.1145/3555802)
 - Rodolfo Meneguette, Robson De Grande, Jo Ueyama, Geraldo P. Rocha Filho, and Edmundo Madeira. 2021. Vehicular Edge Computing: Architecture, Resource Management, Security, and Challenges. ACM Comput. Surv. 55, 1, Article 4 (January 2023), 46 pages. https://doi.org/10.1145/3485129 [[paper]](https://dl.acm.org/doi/full/10.1145/3485129) 
 - E. Karimi, Y. Chen and B. Akbari, "Intelligent and Decentralized Resource Allocation in Vehicular Edge Computing Networks," in IEEE Internet of Things Magazine, vol. 6, no. 4, pp. 112-117, December 2023, doi: 10.1109/IOTM.001.2200268.[[paper]](https://ieeexplore.ieee.org/abstract/document/10364653)
+- G. Yan, K. Liu, C. Liu and J. Zhang, "Edge Intelligence for Internet of Vehicles: A Survey," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3378509. [[paper]](https://ieeexplore.ieee.org/abstract/document/10474509)
+
 
 
 ## Task offloading and resource allocation
@@ -50,6 +52,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - L. Yin, J. Luo, C. Qiu, C. Wang and Y. Qiao, "Joint Task Offloading and Resources Allocation for Hybrid Vehicle Edge Computing Systems," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3351635. [[paper]](https://ieeexplore.ieee.org/abstract/document/10414410)
 - H. Zhang, H. Liang, X. Hong, Y. Yao, B. Lin and D. Zhao, "DRL-Based Resource Allocation Game With Influence of Review Information for Vehicular Edge Computing Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3367657. [[paper]](https://ieeexplore.ieee.org/abstract/document/10440466)
 - Li, Zhenyu, Yuchuan Fu, Mengqiu Tian, and Changle Li. "Cooperative Sensing, Communication and Computation Resource Allocation in Mobile Edge Computing-Enabled Vehicular Networks." Journal of Information and Intelligence (2024).[[paper]](https://www.sciencedirect.com/science/article/pii/S2949715924000118)
+- M. Huang, Z. Shen and G. Zhang, "Joint Spectrum Sharing and V2V/V2I Task Offloading for Vehicular Edge Computing Networks Based on Coalition Formation Game," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3371096. [[paper]](https://ieeexplore.ieee.org/abstract/document/10471314)
 
 ## Physical technology
 - V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
@@ -100,6 +103,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - 孙宁. 基于多源信息融合的智能汽车环境感知技术研究[D]. 江苏:江苏大学,2018.[[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCUQwMTQ4MDM0MBoIYmoyeWc5cHM%3D)
 - 王法安. 面向城市场景的智能网联汽车协同定位关键技术研究[D]. 江苏:东南大学,2022. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCUQwMzAxNzg1NxoIa3hmaDRqaHY%3D)
 - 程超轶. 基于车-车信息动态交互的智能车辆协同定位方法研究[D]. 陕西:长安大学,2021. [[paper]](https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyNDAxMDkSCUQwMjQ5Njk3MhoIeHZlOWxldzM%3D) 
+- P. Yang, D. Duan, C. Chen, X. Cheng and L. Yang, "Multi-Sensor Multi-Vehicle (MSMV) Localization and Mobility Tracking for Autonomous Driving," in IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 14355-14364, Dec. 2020, doi: 10.1109/TVT.2020.3031900.[[paper]](https://ieeexplore.ieee.org/document/9229189)
 
 
 
