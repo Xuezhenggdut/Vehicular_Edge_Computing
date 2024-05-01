@@ -53,6 +53,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - H. Zhang, H. Liang, X. Hong, Y. Yao, B. Lin and D. Zhao, "DRL-Based Resource Allocation Game With Influence of Review Information for Vehicular Edge Computing Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3367657. [[paper]](https://ieeexplore.ieee.org/abstract/document/10440466)
 - Li, Zhenyu, Yuchuan Fu, Mengqiu Tian, and Changle Li. "Cooperative Sensing, Communication and Computation Resource Allocation in Mobile Edge Computing-Enabled Vehicular Networks." Journal of Information and Intelligence (2024).[[paper]](https://www.sciencedirect.com/science/article/pii/S2949715924000118)
 - M. Huang, Z. Shen and G. Zhang, "Joint Spectrum Sharing and V2V/V2I Task Offloading for Vehicular Edge Computing Networks Based on Coalition Formation Game," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3371096. [[paper]](https://ieeexplore.ieee.org/abstract/document/10471314)
+- C. Xu, G. Wang, M. Wei, P. Zhang and B. Peng, "Intelligent Transportation Vehicle Road Collaboration and Task Scheduling Based on Deep Learning in Augmented Internet of Things," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3393940. [[paper]](https://ieeexplore.ieee.org/abstract/document/10508979)
+
+
 
 ## Physical technology
 - V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
