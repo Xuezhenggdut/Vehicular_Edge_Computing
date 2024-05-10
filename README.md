@@ -54,6 +54,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Li, Zhenyu, Yuchuan Fu, Mengqiu Tian, and Changle Li. "Cooperative Sensing, Communication and Computation Resource Allocation in Mobile Edge Computing-Enabled Vehicular Networks." Journal of Information and Intelligence (2024).[[paper]](https://www.sciencedirect.com/science/article/pii/S2949715924000118)
 - M. Huang, Z. Shen and G. Zhang, "Joint Spectrum Sharing and V2V/V2I Task Offloading for Vehicular Edge Computing Networks Based on Coalition Formation Game," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3371096. [[paper]](https://ieeexplore.ieee.org/abstract/document/10471314)
 - C. Xu, G. Wang, M. Wei, P. Zhang and B. Peng, "Intelligent Transportation Vehicle Road Collaboration and Task Scheduling Based on Deep Learning in Augmented Internet of Things," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3393940. [[paper]](https://ieeexplore.ieee.org/abstract/document/10508979)
+- G. Ma et al., "Joint Partial Offloading and Resource Allocation for Vehicular Federated Learning Tasks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3393529. [[paper]](https://ieeexplore.ieee.org/abstract/document/10521565)
 
 
 
