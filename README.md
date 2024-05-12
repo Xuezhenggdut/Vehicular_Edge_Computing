@@ -36,6 +36,8 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Rodolfo Meneguette, Robson De Grande, Jo Ueyama, Geraldo P. Rocha Filho, and Edmundo Madeira. 2021. Vehicular Edge Computing: Architecture, Resource Management, Security, and Challenges. ACM Comput. Surv. 55, 1, Article 4 (January 2023), 46 pages. https://doi.org/10.1145/3485129 [[paper]](https://dl.acm.org/doi/full/10.1145/3485129) 
 - E. Karimi, Y. Chen and B. Akbari, "Intelligent and Decentralized Resource Allocation in Vehicular Edge Computing Networks," in IEEE Internet of Things Magazine, vol. 6, no. 4, pp. 112-117, December 2023, doi: 10.1109/IOTM.001.2200268.[[paper]](https://ieeexplore.ieee.org/abstract/document/10364653)
 - G. Yan, K. Liu, C. Liu and J. Zhang, "Edge Intelligence for Internet of Vehicles: A Survey," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3378509. [[paper]](https://ieeexplore.ieee.org/abstract/document/10474509)
+- Fatemeh Golpayegani, Nanxi Chen, Nima Afraz, Eric Gyamfi, Abdollah Malekjafarian, Dominik Schäfer, and Christian Krupitzer. 2024. Adaptation in Edge Computing: A review on design principles and research challenges. ACM Trans. Auton. Adapt. Syst. Just Accepted (May 2024). [[paper]](https://dl.acm.org/doi/abs/10.1145/3664200)
+
 
 
 
