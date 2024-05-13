@@ -5,6 +5,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 # Table of Contents
 - [Vehicular\_Edge\_Computing](#vehicular_edge_computing)
 - [Table of Contents](#table-of-contents)
+  - [White paper](#white-paper)
   - [Awesome resources](#awesome-resources)
   - [IoV policy](#iov-policy)
   - [Survey](#survey)
@@ -20,7 +21,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Group](#group)
   - [Other collections](#other-collections)
 
- 
+## White paper
+- [边缘内生智能白皮书(2024)](https://book.yunzhan365.com/grhe/sjoq/mobile/index.html)
+
 ## Awesome resources
 - [Awesome edge computing](https://github.com/qijianpeng/awesome-edge-computing) | [![Stars](https://img.shields.io/github/stars/qijianpeng/awesome-edge-computing.svg?color=orange)](https://github.com/qijianpeng/awesome-edge-computing/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/qijianpeng/awesome-edge-computing?label=&message=Commit) |
 
