@@ -95,6 +95,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 
 ## Cooperative perception
 - K. Qu and W. Zhuang, "Scalable and Dynamic Cooperative Perception: A Data/Model Co-Driven Framework," in IEEE Network, doi: 10.1109/MNET.2024.3354209. [[paper]](https://ieeexplore.ieee.org/abstract/document/10400178),[[code]](https://github.com/kaigequ/Matlab-autonomous-driving-simulation)
+- Dakic, Anja, Benjamin Rainer, Peter Priller, Guo Nan, Anamarija Momic, Xiaochun Ye, and Thomas Zemen. "Wireless V2X Communication Testbed for Connected, Cooperative and Automated Mobility." [[paper]](https://thomaszemen.org/papers/Dakic24-VNC-paper.pdf) [[code]](https://github.com/parforme/RELEVANCE-HOPE)
 
 
 ## Cooperative perception task offloading
