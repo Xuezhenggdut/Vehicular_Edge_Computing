@@ -16,6 +16,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Chinese](#chinese)
   - [Background](#background)
   - [Cooperative perception](#cooperative-perception)
+  - [Security](#security)
   - [Cooperative perception task offloading](#cooperative-perception-task-offloading)
   - [Cooperative pose optimization](#cooperative-pose-optimization)
   - [Group](#group)
@@ -100,6 +101,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Dakic, Anja, Benjamin Rainer, Peter Priller, Guo Nan, Anamarija Momic, Xiaochun Ye, and Thomas Zemen. "Wireless V2X Communication Testbed for Connected, Cooperative and Automated Mobility." [[paper]](https://thomaszemen.org/papers/Dakic24-VNC-paper.pdf) [[code]](https://github.com/parforme/RELEVANCE-HOPE)
 
 - People: [[Thomas Zemen]](https://thomaszemen.org/index.html)
+
+## Security
+- H. Guo, X. Chen, X. Zhou and J. Liu, "Trusted and Efficient Task Offloading in Vehicular Edge Computing Networks," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2024.3412394. [[paper]](https://ieeexplore.ieee.org/abstract/document/10552795)
 
 
 ## Cooperative perception task offloading
