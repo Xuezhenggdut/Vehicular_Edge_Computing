@@ -64,6 +64,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - G. Ma et al., "Joint Partial Offloading and Resource Allocation for Vehicular Federated Learning Tasks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3393529. [[paper]](https://ieeexplore.ieee.org/abstract/document/10521565)
 - X. Wang et al., "Augmented Intelligence of Things for Priority-Aware Task Offloading in Vehicular Edge Computing," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3408157. [[paper]](https://ieeexplore.ieee.org/abstract/document/10551383)
 - R. Xiong et al., "Reducing Power Consumption and Latency of Autonomous Vehicles With Efficient Task and Path Assignment in the V2X-MEC Based on Nash Equilibrium," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3430112. [[paper]](https://ieeexplore.ieee.org/abstract/document/10618958)
+- Q. Luo, T. H. Luan, W. Shi and P. Fan, "Heterogeneous Task Oriented Data Scheduling in Vehicular Edge Computing via Deep Reinforcement Learning," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3444815. [[paper]](https://ieeexplore.ieee.org/abstract/document/10638241)
 
 
 
