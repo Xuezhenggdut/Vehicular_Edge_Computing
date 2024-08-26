@@ -10,6 +10,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [IoV policy](#iov-policy)
   - [Survey](#survey)
   - [Task offloading and resource allocation](#task-offloading-and-resource-allocation)
+  - [Digital twin](#digital-twin)
   - [Physical technology](#physical-technology)
   - [NOMA](#noma)
   - [Application](#application)
@@ -66,7 +67,15 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - R. Xiong et al., "Reducing Power Consumption and Latency of Autonomous Vehicles With Efficient Task and Path Assignment in the V2X-MEC Based on Nash Equilibrium," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3430112. [[paper]](https://ieeexplore.ieee.org/abstract/document/10618958)
 - Q. Luo, T. H. Luan, W. Shi and P. Fan, "Heterogeneous Task Oriented Data Scheduling in Vehicular Edge Computing via Deep Reinforcement Learning," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3444815. [[paper]](https://ieeexplore.ieee.org/abstract/document/10638241)
 
-
+## Digital twin
+- A. Paul, K. Singh, C. -P. Li, O. A. Dobre and T. Q. Duong, "Digital Twin-Aided Vehicular Edge Network: A Large-Scale Model Optimization by Quantum-DRL," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3410897. [[paper]](https://ieeexplore.ieee.org/abstract/document/10551488)
+- S. Bounaira, A. Alioua and I. Souici, "Trust-Based Secure Task Offloading in Digital Twin Empowered Vehicular Edge Computing," 2024 6th International Conference on Pattern Analysis and Intelligent Systems (PAIS), EL OUED, Algeria, 2024, pp. 1-8, doi: 10.1109/PAIS62114.2024.10541161.(https://ieeexplore.ieee.org/abstract/document/10541161)
+- X. Tan, M. Wang, T. Wang, Q. Zheng, J. Wu and J. Yang, "Adaptive Task Scheduling in Digital Twin Empowered Cloud-Native Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 73, no. 6, pp. 8973-8987, June 2024, doi: 10.1109/TVT.2024.3362841. [[paper]](https://ieeexplore.ieee.org/abstract/document/10423175)
+- K. Wang et al., "Smart Mobility Digital Twin Based Automated Vehicle Navigation System: A Proof of Concept," in IEEE Transactions on Intelligent Vehicles, vol. 9, no. 3, pp. 4348-4361, March 2024, doi: 10.1109/TIV.2024.3368109. [[paper]](https://ieeexplore.ieee.org/abstract/document/10443037)
+- Y. Zhang, W. Liang, Z. Xu and X. Jia, "Mobility-Aware Service Provisioning in Edge Computing via Digital Twin Replica Placements," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3394839. [[paper]](https://ieeexplore.ieee.org/abstract/document/10510665)
+- L. Tang, Z. Cheng, J. Dai, H. Zhang and Q. Chen, "Joint Optimization of Vehicular Sensing and Vehicle Digital Twins Deployment for DT-Assisted IoVs," in IEEE Transactions on Vehicular Technology, vol. 73, no. 8, pp. 11834-11847, Aug. 2024, doi: 10.1109/TVT.2024.3373175. [[paper]](https://ieeexplore.ieee.org/abstract/document/10460140)
+- G. Chen, W. Duan, J. Sun, Q. Zeng and Y. -D. Zhang, "Social-Aware Assisted Edge Collaborative Caching Based on Deep Reinforcement Learning Joint With Digital Twin Network in Internet of Vehicles," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3392596. [[paper]](https://ieeexplore.ieee.org/abstract/document/10521555)
+- 
 
 ## Physical technology
 - V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
