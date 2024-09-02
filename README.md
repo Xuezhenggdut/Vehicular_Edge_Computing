@@ -80,6 +80,10 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - X. Wang et al., "Augmented Intelligence of Things for Priority-Aware Task Offloading in Vehicular Edge Computing," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3408157. [[paper]](https://ieeexplore.ieee.org/abstract/document/10551383)
 - K. Sun et al., "Personalized Privacy-Preserving Distributed Artificial Intelligence for Digital-Twin-Driven Vehicle Road Cooperation," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3389656. [[paper]](https://ieeexplore.ieee.org/abstract/document/10517764),[[code]](https://github.com/szpsunkk/TimeSenFedPLDP)
 
+- A. Gupta, D. Diwani, V. A. Bohara and A. Srivastava, "QoS Aware Task Offloading for Digital-Twin Enabled Connected Vehicular Network," 2024 IEEE Wireless Communications and Networking Conference (WCNC), Dubai, United Arab Emirates, 2024, pp. 1-6 [[paper]](https://ieeexplore.ieee.org/document/10570972),[[code]](https://github.com/drishtidiwani/QoS-Aware-Task-Offloading-for-Digital-Twin-Enabled-Connected-Vehicular-Network)
+- L. Zhao et al., "A Digital Twin-Assisted Intelligent Partial Offloading Approach for Vehicular Edge Computing," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 11, pp. 3386-3400, Nov. 2023. [[paper]](https://ieeexplore.ieee.org/document/10234624),[[code]](https://github.com/NetworkCommunication/IGNITE)
+- Digital-twin Network Service Pre-migration Scheme for Vehicular Edge Computing : [[code]](https://github.com/NetworkCommunication/premigration) 
+
 ## Physical technology
 - V. Kumar, M. F. Hanif, M. Juntti and L. -N. Tran, "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access," in IEEE Transactions on Vehicular Technology, vol. 72, no. 9, pp. 12332-12337, Sept. 2023, doi: 10.1109/TVT.2023.3263791. [[paper]](https://ieeexplore.ieee.org/document/10246992),[[code]](https://github.com/vkumar-ucd/NOMA-MEC-Offloading)
 
