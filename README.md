@@ -68,6 +68,9 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - X. Wang et al., "Augmented Intelligence of Things for Priority-Aware Task Offloading in Vehicular Edge Computing," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3408157. [[paper]](https://ieeexplore.ieee.org/abstract/document/10551383)
 - R. Xiong et al., "Reducing Power Consumption and Latency of Autonomous Vehicles With Efficient Task and Path Assignment in the V2X-MEC Based on Nash Equilibrium," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3430112. [[paper]](https://ieeexplore.ieee.org/abstract/document/10618958)
 - Q. Luo, T. H. Luan, W. Shi and P. Fan, "Heterogeneous Task Oriented Data Scheduling in Vehicular Edge Computing via Deep Reinforcement Learning," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3444815. [[paper]](https://ieeexplore.ieee.org/abstract/document/10638241)
+- Y. Zhao et al., "Joint Content Caching, Service Placement and Task Offloading in UAV-Enabled Mobile Edge Computing Networks," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3460049. [[paper]](https://ieeexplore.ieee.org/abstract/document/10680081)
+
+
 
 ## Digital twin
 - 中国电子信息产业发展研究院:数字孪生白皮书（2019年）[[paper]](https://aimg8.dlssyht.cn/u/551001/ueditor/file/276/551001/1607995274910277.pdf)
