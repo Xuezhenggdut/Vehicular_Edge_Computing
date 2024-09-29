@@ -69,6 +69,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - R. Xiong et al., "Reducing Power Consumption and Latency of Autonomous Vehicles With Efficient Task and Path Assignment in the V2X-MEC Based on Nash Equilibrium," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3430112. [[paper]](https://ieeexplore.ieee.org/abstract/document/10618958)
 - Q. Luo, T. H. Luan, W. Shi and P. Fan, "Heterogeneous Task Oriented Data Scheduling in Vehicular Edge Computing via Deep Reinforcement Learning," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3444815. [[paper]](https://ieeexplore.ieee.org/abstract/document/10638241)
 - Y. Zhao et al., "Joint Content Caching, Service Placement and Task Offloading in UAV-Enabled Mobile Edge Computing Networks," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3460049. [[paper]](https://ieeexplore.ieee.org/abstract/document/10680081)
+- H. Wang, D. Wang, Y. He, Q. Xu, X. Yang and F. Zhou, "A V2X-Enabled Framework for Delay-Sensitive Task Offloading in LAPS-Aided Internet of Vehicles," 2024 IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 485-490, doi: 10.1109/ICCC62479.2024.10681683. [[paper]](https://ieeexplore.ieee.org/abstract/document/10681683)
 
 
 
