@@ -11,6 +11,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Survey](#survey)
   - [Simulator](#simulator)
   - [Task offloading and resource allocation](#task-offloading-and-resource-allocation)
+  - [DAG](#dag)
   - [Digital twin](#digital-twin)
   - [Physical technology](#physical-technology)
   - [NOMA](#noma)
@@ -70,6 +71,10 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Q. Luo, T. H. Luan, W. Shi and P. Fan, "Heterogeneous Task Oriented Data Scheduling in Vehicular Edge Computing via Deep Reinforcement Learning," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3444815. [[paper]](https://ieeexplore.ieee.org/abstract/document/10638241)
 - Y. Zhao et al., "Joint Content Caching, Service Placement and Task Offloading in UAV-Enabled Mobile Edge Computing Networks," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3460049. [[paper]](https://ieeexplore.ieee.org/abstract/document/10680081)
 - H. Wang, D. Wang, Y. He, Q. Xu, X. Yang and F. Zhou, "A V2X-Enabled Framework for Delay-Sensitive Task Offloading in LAPS-Aided Internet of Vehicles," 2024 IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 485-490, doi: 10.1109/ICCC62479.2024.10681683. [[paper]](https://ieeexplore.ieee.org/abstract/document/10681683)
+
+
+## DAG
+- X. He, S. Pang, H. Gui, K. Zhang, N. Wang and S. Yu, "Online Offloading and Mobility Awareness of DAG Tasks for Vehicle Edge Computing," in IEEE Transactions on Network and Service Management, doi: 10.1109/TNSM.2024.3470777. [[paper]](https://ieeexplore.ieee.org/abstract/document/10700794)
 
 
 
