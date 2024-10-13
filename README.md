@@ -48,6 +48,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 
 ## Simulator
 - Wei, Z., Huang, C., Li, B., Zhao, Y., Cheng, X., Yang, L. and Zhang, R., 2024. AirFogSim: A Light-Weight and Modular Simulator for UAV-Integrated Vehicular Fog Computing. arXiv preprint arXiv:2409.02518. [[paper]](https://arxiv.org/pdf/2409.02518),[[code]](https://github.com/ZhiweiWei-NAMI/AirFogSim)
+- Wu, Fan, Xiaolong Xu, Muhammad Bilal, Xiangwei Wang, Hao Cheng, and Siyu Wu. "VEC-Sim: A Simulation Platform for Evaluating Service Caching and Computation Offloading Policies in Vehicular Edge Networks." arXiv preprint arXiv:2410.06934 (2024). [[paper]](https://arxiv.org/pdf/2410.06934)
 
 
 ## Task offloading and resource allocation
