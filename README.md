@@ -73,6 +73,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Y. Zhao et al., "Joint Content Caching, Service Placement and Task Offloading in UAV-Enabled Mobile Edge Computing Networks," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3460049. [[paper]](https://ieeexplore.ieee.org/abstract/document/10680081)
 - H. Wang, D. Wang, Y. He, Q. Xu, X. Yang and F. Zhou, "A V2X-Enabled Framework for Delay-Sensitive Task Offloading in LAPS-Aided Internet of Vehicles," 2024 IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 485-490, doi: 10.1109/ICCC62479.2024.10681683. [[paper]](https://ieeexplore.ieee.org/abstract/document/10681683)
 - J. Wu, M. Tang, C. Jiang, L. Gao and B. Cao, "Cloud-Edge-End Collaborative Task Offloading in Vehicular Edge Networks: A Multi-Layer Deep Reinforcement Learning Approach," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3472472. [[paper]](https://ieeexplore.ieee.org/abstract/document/10702509)
+- J. Yang et al., "Service-Aware Computation Offloading for Parallel Tasks in VEC Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3476476. [[paper]](https://ieeexplore.ieee.org/abstract/document/10710330)
 
 
 ## DAG
