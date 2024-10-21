@@ -74,6 +74,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - H. Wang, D. Wang, Y. He, Q. Xu, X. Yang and F. Zhou, "A V2X-Enabled Framework for Delay-Sensitive Task Offloading in LAPS-Aided Internet of Vehicles," 2024 IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 485-490, doi: 10.1109/ICCC62479.2024.10681683. [[paper]](https://ieeexplore.ieee.org/abstract/document/10681683)
 - J. Wu, M. Tang, C. Jiang, L. Gao and B. Cao, "Cloud-Edge-End Collaborative Task Offloading in Vehicular Edge Networks: A Multi-Layer Deep Reinforcement Learning Approach," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3472472. [[paper]](https://ieeexplore.ieee.org/abstract/document/10702509)
 - J. Yang et al., "Service-Aware Computation Offloading for Parallel Tasks in VEC Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3476476. [[paper]](https://ieeexplore.ieee.org/abstract/document/10710330)
+- H. Wu, A. Gu and Y. Liang, "Federated Reinforcement Learning-Empowered Task Offloading for Large Models in Vehicular Edge Computing," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3481876. [[paper]](https://ieeexplore.ieee.org/abstract/document/10720029)
 
 
 ## DAG
@@ -99,6 +100,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - L. Zhao et al., "A Digital Twin-Assisted Intelligent Partial Offloading Approach for Vehicular Edge Computing," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 11, pp. 3386-3400, Nov. 2023. [[paper]](https://ieeexplore.ieee.org/document/10234624),[[code]](https://github.com/NetworkCommunication/IGNITE)
 - Digital-twin Network Service Pre-migration Scheme for Vehicular Edge Computing : [[code]](https://github.com/NetworkCommunication/premigration) 
 - Zhu, Lin, Bingxian Li, and Long Tan. "A Digital Twin-based multi-objective optimized task offloading and scheduling scheme for vehicular edge networks." Future Generation Computer Systems (2024): 107517. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X24004813)
+- H. Kaur and M. Bhatia, "Digital Twin-Driven Performance Assessment for IoT-Integrated Autonomous Driving Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3481501. [[paper]](https://ieeexplore.ieee.org/abstract/document/10720073)
 
 
 ## Physical technology
