@@ -101,6 +101,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Digital-twin Network Service Pre-migration Scheme for Vehicular Edge Computing : [[code]](https://github.com/NetworkCommunication/premigration) 
 - Zhu, Lin, Bingxian Li, and Long Tan. "A Digital Twin-based multi-objective optimized task offloading and scheduling scheme for vehicular edge networks." Future Generation Computer Systems (2024): 107517. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X24004813)
 - H. Kaur and M. Bhatia, "Digital Twin-Driven Performance Assessment for IoT-Integrated Autonomous Driving Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3481501. [[paper]](https://ieeexplore.ieee.org/abstract/document/10720073)
+- C. Xu, P. Zhang, X. Xia, L. Kong, P. Zeng and H. Yu, "Digital Twin-Assisted Intelligent Secure Task Offloading and Caching in Blockchain-Based Vehicular Edge Computing Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3482870. [[paper]](https://ieeexplore.ieee.org/document/10720851)
 
 
 ## Physical technology
