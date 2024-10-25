@@ -75,6 +75,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - J. Wu, M. Tang, C. Jiang, L. Gao and B. Cao, "Cloud-Edge-End Collaborative Task Offloading in Vehicular Edge Networks: A Multi-Layer Deep Reinforcement Learning Approach," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3472472. [[paper]](https://ieeexplore.ieee.org/abstract/document/10702509)
 - J. Yang et al., "Service-Aware Computation Offloading for Parallel Tasks in VEC Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3476476. [[paper]](https://ieeexplore.ieee.org/abstract/document/10710330)
 - H. Wu, A. Gu and Y. Liang, "Federated Reinforcement Learning-Empowered Task Offloading for Large Models in Vehicular Edge Computing," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3481876. [[paper]](https://ieeexplore.ieee.org/abstract/document/10720029)
+- W. Zhao, C. Wu, R. Zhong, K. Shi and X. Xu, "Edge Computing and Caching Optimization Based on PPO for Task Offloading in RSU-Assisted IoV," 2023 IEEE 9th World Forum on Internet of Things (WF-IoT), Aveiro, Portugal, 2023, pp. 01-06, doi: 10.1109/WF-IoT58464.2023.10539436. [[paper]](https://ieeexplore.ieee.org/document/10539436),[[code]](https://github.com/EscapeTheWind/Edge-Computing-and-Caching-Optimization-based-on-PPO-for-Task-Offloading-in-RSU-assisted-IoV)
 
 
 ## DAG
