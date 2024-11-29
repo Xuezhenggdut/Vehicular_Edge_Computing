@@ -105,6 +105,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - C. Xu, P. Zhang, X. Xia, L. Kong, P. Zeng and H. Yu, "Digital Twin-Assisted Intelligent Secure Task Offloading and Caching in Blockchain-Based Vehicular Edge Computing Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3482870. [[paper]](https://ieeexplore.ieee.org/document/10720851)
 - S. Ghannay and S. M. Gammar, "The Digital Twin in Vehicular Network: A Key to the Future of IoV ?," 2024 13th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Agadir, Morocco, 2024, pp. 1-6, doi: 10.23919/PEMWN62766.2024.10737568. [[paper]](https://ieeexplore.ieee.org/abstract/document/10737568)
 - F. Mou et al., "Adaptive Digital Twin Migration in Vehicular Edge Computing and Networks," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3492349. [[paper]](https://ieeexplore.ieee.org/abstract/document/10746337)
+- X. Chen, J. Cao, Y. Sahni, M. Zhang, Z. Liang and L. Yang, "Mobility-aware Dependent Task Offloading in Edge Computing: a Digital Twin-assisted Reinforcement Learning Approach," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3506221. [[paper]](https://ieeexplore.ieee.org/abstract/document/10767295)
 
 
 ## Physical technology
