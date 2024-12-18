@@ -87,6 +87,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 ## Digital twin
 - 中国电子信息产业发展研究院:数字孪生白皮书（2019年）[[paper]](https://aimg8.dlssyht.cn/u/551001/ueditor/file/276/551001/1607995274910277.pdf)
 - 王全,杨建军,周建锋. 车联网场景下数字孪生网络架构及关键技术研究[J]. 长江信息通信,2024,37(3):17-21. DOI:10.20153/j.issn.2096-9759.2024.03.005. [[paper]](https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjQxMTA1MTcxMzA0Eg9oYnlkanMyMDI0MDMwMDUaCHNnOGVud2p3)
+- 中国数字孪生行业研究报告(2023.4)[[report]](https://aimg8.dlssyht.cn/u/551001/ueditor/file/276/551001/1719364881590418.pdf)
 - A. Paul, K. Singh, C. -P. Li, O. A. Dobre and T. Q. Duong, "Digital Twin-Aided Vehicular Edge Network: A Large-Scale Model Optimization by Quantum-DRL," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3410897. [[paper]](https://ieeexplore.ieee.org/abstract/document/10551488)
 - S. Bounaira, A. Alioua and I. Souici, "Trust-Based Secure Task Offloading in Digital Twin Empowered Vehicular Edge Computing," 2024 6th International Conference on Pattern Analysis and Intelligent Systems (PAIS), EL OUED, Algeria, 2024, pp. 1-8, doi: 10.1109/PAIS62114.2024.10541161.(https://ieeexplore.ieee.org/abstract/document/10541161)
 - X. Tan, M. Wang, T. Wang, Q. Zheng, J. Wu and J. Yang, "Adaptive Task Scheduling in Digital Twin Empowered Cloud-Native Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 73, no. 6, pp. 8973-8987, June 2024, doi: 10.1109/TVT.2024.3362841. [[paper]](https://ieeexplore.ieee.org/abstract/document/10423175)
