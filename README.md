@@ -15,6 +15,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
   - [Digital twin](#digital-twin)
   - [Physical technology](#physical-technology)
   - [NOMA](#noma)
+  - [Security offloading](#security-offloading)
   - [Application](#application)
   - [Chinese](#chinese)
   - [Background](#background)
@@ -125,6 +126,10 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Xu, X., Liu, K., Dai, P., Jin, F., Ren, H., Zhan, C., & Guo, S. (2023). Joint task offloading and resource optimization in noma-based vehicular edge computing: A game-theoretic drl approach. Journal of Systems Architecture, 134, 102780. [[paper]](https://www.sciencedirect.com/science/article/pii/S138376212200265X),[[code]](https://github.com/neardws/Game-Theoretic-Deep-Reinforcement-Learning)
 - H. Zhu, Q. Wu, X. -J. Wu, Q. Fan, P. Fan and J. Wang, "Decentralized Power Allocation for MIMO-NOMA Vehicular Edge Computing Based on Deep Reinforcement Learning," in IEEE Internet of Things Journal, vol. 9, no. 14, pp. 12770-12782, 15 July15, 2022, doi: 10.1109/JIOT.2021.3138434. [[paper]](https://ieeexplore.ieee.org/document/9663149),[[code]](https://github.com/hongbiaozhu/Distributed_DRL_MIMO-NOMA_VEC)
 - L. P. Qian, X. Dong, M. Wu, Y. Wu and L. Zhao, "Long-Term Energy Consumption Minimization in NOMA-Enabled Vehicular Edge Computing Networks," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3404991. [[paper]](https://ieeexplore.ieee.org/abstract/document/10549944)
+
+
+## Security offloading
+- X. Lu et al., "Blockchain-Enabled Secure Offloading for VEC: a Multi-Agent Reinforcement Learning Approach," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2024.3523561. [[paper]](https://ieeexplore.ieee.org/abstract/document/10817486)
 
 ## Application
 - G. Luo et al., "EdgeCooper: Network-Aware Cooperative LiDAR Perception for Enhanced Vehicular Awareness," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2023.3322764. [[paper]](https://ieeexplore.ieee.org/abstract/document/10274112)
