@@ -111,6 +111,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - F. Mou et al., "Adaptive Digital Twin Migration in Vehicular Edge Computing and Networks," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3492349. [[paper]](https://ieeexplore.ieee.org/abstract/document/10746337)
 - X. Chen, J. Cao, Y. Sahni, M. Zhang, Z. Liang and L. Yang, "Mobility-aware Dependent Task Offloading in Edge Computing: a Digital Twin-assisted Reinforcement Learning Approach," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2024.3506221. [[paper]](https://ieeexplore.ieee.org/abstract/document/10767295)
 - L. Tang, Y. Yi, S. Li, Q. Huang and Q. Chen, "Digital Twin Construction and Resource Allocation on Internet of Vehicles," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3507290. [[paper]](https://ieeexplore.ieee.org/abstract/document/10777029)
+- Lin, H., Yang, C., Wu, S., Chen, X., Liu, Y. and Liu, Y., 2025. Vehicles-Digital Twins Matching Scheme in Vehicular Edge Computing Networks: A Hierarchical DRL Approach. Vehicular Communications, p.100883. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209625000105)
 
 
 ## Physical technology
