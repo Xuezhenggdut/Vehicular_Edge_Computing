@@ -113,6 +113,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - L. Tang, Y. Yi, S. Li, Q. Huang and Q. Chen, "Digital Twin Construction and Resource Allocation on Internet of Vehicles," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3507290. [[paper]](https://ieeexplore.ieee.org/abstract/document/10777029)
 - Lin, H., Yang, C., Wu, S., Chen, X., Liu, Y. and Liu, Y., 2025. Vehicles-Digital Twins Matching Scheme in Vehicular Edge Computing Networks: A Hierarchical DRL Approach. Vehicular Communications, p.100883. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209625000105)
 - L. Tang, A. Wang, B. Xia, Y. Tang and Q. Chen, "Research on Integrated Sensing, Communication Resource Allocation and Digital Twin Placement Based on Digital Twin in IoV," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3535767.[[paper]](https://ieeexplore.ieee.org/abstract/document/10271832)
+- Hayla, Nahom Abishu, et al. "A Multi-Agent DRL-Based Framework for Optimal Resource Allocation and Twin Migration in the Multi-Tier Vehicular Metaverse." arXiv preprint arXiv:2502.19004 (2025). [[paper]](https://arxiv.org/abs/2502.19004)
 
 
 ## Physical technology
@@ -153,7 +154,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - K. Qu and W. Zhuang, "Scalable and Dynamic Cooperative Perception: A Data/Model Co-Driven Framework," in IEEE Network, doi: 10.1109/MNET.2024.3354209. [[paper]](https://ieeexplore.ieee.org/abstract/document/10400178),[[code]](https://github.com/kaigequ/Matlab-autonomous-driving-simulation)
 - Dakic, Anja, Benjamin Rainer, Peter Priller, Guo Nan, Anamarija Momic, Xiaochun Ye, and Thomas Zemen. "Wireless V2X Communication Testbed for Connected, Cooperative and Automated Mobility." [[paper]](https://thomaszemen.org/papers/Dakic24-VNC-paper.pdf) [[code]](https://github.com/parforme/RELEVANCE-HOPE)
 - B. Lu, X. Huang, Y. Wu, L. Qian, S. Zhou and D. Niyato, "Joint Optimization of Compression, Transmission and Computation for Cooperative Perception Aided Intelligent Vehicular Networks," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3528026.[[paper]](https://ieeexplore.ieee.org/abstract/document/10836834)
-- M. Dong, Y. Fu, C. Li, M. Tian, F. R. Yu and N. Cheng, "Task Offloading and Resource Allocation in Vehicular Cooperative Perception With Integrated Sensing, Communication, and Computation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3542365.[[paper]](https://ieeexplore.ieee.org/abstract/document/10899097):star::star::star::star::star:
+
 
 - People: [[Thomas Zemen]](https://thomaszemen.org/index.html)
 
@@ -168,6 +169,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Z. Xiao, J. Shu, H. Jiang, G. Min, H. Chen and Z. Han, "Overcoming Occlusions: Perception Task-Oriented Information Sharing in Connected and Autonomous Vehicles," in IEEE Network, vol. 37, no. 4, pp. 224-229, July/August 2023, doi: 10.1109/MNET.018.2300125. [[paper]](https://ieeexplore.ieee.org/document/10293229)
 - . -J. Ku, S. Baidya and S. Dey, "Uncertainty-Aware Task Offloading for Multi-Vehicle Perception Fusion Over Vehicular Edge Computing," in IEEE Transactions on Vehicular Technology, vol. 72, no. 11, pp. 14906-14923, Nov. 2023, doi: 10.1109/TVT.2023.3284369. [[paper]](https://ieeexplore.ieee.org/abstract/document/10146522)
 - Zaki, Amr M., Sara A. Elsayed, Khalid Elgazzar, and Hossam S. Hassanein. "Quality-Aware Task Offloading for Cooperative Perception in Vehicular Edge Computing." arXiv preprint arXiv:2405.20587 (2024). [[paper]](https://arxiv.org/abs/2405.20587)
+- M. Dong, Y. Fu, C. Li, M. Tian, F. R. Yu and N. Cheng, "Task Offloading and Resource Allocation in Vehicular Cooperative Perception With Integrated Sensing, Communication, and Computation," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3542365.[[paper]](https://ieeexplore.ieee.org/abstract/document/10899097):star::star::star::star::star:
 
 - related work
 - P. Lv et al., "Edge Computing Task Offloading for Environmental Perception of Autonomous Vehicles in 6G Networks," in IEEE Transactions on Network Science and Engineering, vol. 10, no. 3, pp. 1228-1245, 1 May-June 2023, doi: 10.1109/TNSE.2022.3211193. [[paper]](https://ieeexplore.ieee.org/abstract/document/9906430)
