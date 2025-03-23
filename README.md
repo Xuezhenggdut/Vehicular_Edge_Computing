@@ -114,6 +114,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Lin, H., Yang, C., Wu, S., Chen, X., Liu, Y. and Liu, Y., 2025. Vehicles-Digital Twins Matching Scheme in Vehicular Edge Computing Networks: A Hierarchical DRL Approach. Vehicular Communications, p.100883. [[paper]](https://www.sciencedirect.com/science/article/pii/S2214209625000105)
 - L. Tang, A. Wang, B. Xia, Y. Tang and Q. Chen, "Research on Integrated Sensing, Communication Resource Allocation and Digital Twin Placement Based on Digital Twin in IoV," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3535767.[[paper]](https://ieeexplore.ieee.org/abstract/document/10271832)
 - Hayla, Nahom Abishu, et al. "A Multi-Agent DRL-Based Framework for Optimal Resource Allocation and Twin Migration in the Multi-Tier Vehicular Metaverse." arXiv preprint arXiv:2502.19004 (2025). [[paper]](https://arxiv.org/abs/2502.19004)
+- B. Fan, Z. Xu, Z. Li, Y. Wu and Y. Zhang, "DT Assisted Task Offloading for C-V2X Networks With Imperfect DT Prediction Conditions," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3549111. [[paper]](https://ieeexplore.ieee.org/abstract/document/10934133)
 
 
 ## Physical technology
