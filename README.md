@@ -116,6 +116,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - Hayla, Nahom Abishu, et al. "A Multi-Agent DRL-Based Framework for Optimal Resource Allocation and Twin Migration in the Multi-Tier Vehicular Metaverse." arXiv preprint arXiv:2502.19004 (2025). [[paper]](https://arxiv.org/abs/2502.19004)
 - B. Fan, Z. Xu, Z. Li, Y. Wu and Y. Zhang, "DT Assisted Task Offloading for C-V2X Networks With Imperfect DT Prediction Conditions," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3549111. [[paper]](https://ieeexplore.ieee.org/abstract/document/10934133)
 - Chen, J., Kang, J., Xu, M., Wu, F., Zhang, H., Huang, H., Niyato, D. and Mao, S., 2025. Efficient Twin Migration in Vehicular Metaverses: Multi-Agent Split Deep Reinforcement Learning with Spatio-Temporal Trajectory Generation. arXiv preprint arXiv:2503.23290. [[paper]](https://arxiv.org/abs/2503.23290)
+- L. Lin, W. Chen, Q. He, J. Xiong, J. Lin and L. Lin, "VECO: A Digital Twin-Empowered Framework for Efficient Vehicular Edge Caching and Computation Offloading," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2025.3548661. [[paper]](https://ieeexplore.ieee.org/abstract/document/10959046)
 
 
 ## Physical technology
