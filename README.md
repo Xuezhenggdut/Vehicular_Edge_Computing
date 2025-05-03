@@ -46,6 +46,7 @@ This project gathers academic resources related to vehicular edge computing (VEC
 - G. Yan, K. Liu, C. Liu and J. Zhang, "Edge Intelligence for Internet of Vehicles: A Survey," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2024.3378509. [[paper]](https://ieeexplore.ieee.org/abstract/document/10474509)
 - Fatemeh Golpayegani, Nanxi Chen, Nima Afraz, Eric Gyamfi, Abdollah Malekjafarian, Dominik Schäfer, and Christian Krupitzer. 2024. Adaptation in Edge Computing: A review on design principles and research challenges. ACM Trans. Auton. Adapt. Syst. Just Accepted (May 2024). [[paper]](https://dl.acm.org/doi/abs/10.1145/3664200)
 - 雷凯茹,余冰雁. 面向车联网的MEC跨域协同技术研究[J]. 信息通信技术与政策,2024,50(3):18-26. DOI:10.12267/j.issn.2096-5931.2024.03.003. [[paper]](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg5keHdqczIwMjQwMzAwNBoId2NuNTY5ZG4%3D)
+- Tianen Liu, Shuai Wang, Zheng Dong, Borui Li, and Tian He. 2025. From Perception to Computation: Revisiting Delay Optimization for Connected Autonomous Vehicles. ACM Comput. Surv. 57, 8, Article 200 (August 2025) [[paper]](https://dl.acm.org/doi/full/10.1145/3718361)
 
 ## Simulator
 - Wei, Z., Huang, C., Li, B., Zhao, Y., Cheng, X., Yang, L. and Zhang, R., 2024. AirFogSim: A Light-Weight and Modular Simulator for UAV-Integrated Vehicular Fog Computing. arXiv preprint arXiv:2409.02518. [[paper]](https://arxiv.org/pdf/2409.02518),[[code]](https://github.com/ZhiweiWei-NAMI/AirFogSim)
